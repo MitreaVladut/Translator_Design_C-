@@ -1,0 +1,5 @@
+int x;
+void main(void) {
+    x = 123 + 45;
+    return;
+}
