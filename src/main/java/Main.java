@@ -37,7 +37,7 @@ public class Main {
                     token.getCharPositionInLine()
             );
         }
-/*
+
         // Syntax analys    is
         CMinusParser parser = new CMinusParser(tokens);
         parser.removeErrorListeners();
@@ -66,6 +66,6 @@ public class Main {
             System.out.println("Parsing completed successfully!");
         } else {
             System.out.println("Parsing failed.");
-        }*/
+        }
     }
 }
